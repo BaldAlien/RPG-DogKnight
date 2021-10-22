@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: b2ff0472ecf214a4c8a7a46121ce0210
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - HPUIPrefab: {fileID: 4955400353799309074, guid: 54bdfba7bfa6c074abd6e60f4c41ba1a, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
